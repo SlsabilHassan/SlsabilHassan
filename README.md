@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Available_for_Work-00C853?style=for-the-badge&logo=handshake&logoColor=white"/>
 <br/><br/>
 <!-- Quick Links -->
-<a href="https://slsabilhassan.dev">
+<a href="https://slsabilhassan.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:shassan@mail.wlu.edu">
@@ -284,7 +284,7 @@
 
 <div align="center">
 
-<a href="https://slsabilhassan.dev">
+<a href="https://slsabilhassan.com">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B35?style=for-the-badge&logoColor=white" />
 </a>
 
